@@ -39,4 +39,4 @@ In this notebook, I am comparing how this strategy will perform if we use EMA vs
 
 ## **Conclusion:**
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg
+![Cumm Pnl comparison](subplots.png)
