@@ -39,4 +39,11 @@ In this notebook, I am comparing how this strategy will perform if we use EMA vs
 
 ## **Conclusion:**
 
+Below plot shows the Cummulative returns for both strategies.
 ![Cumm Pnl comparison](subplots.png)
+
+SMA vs EMA
+
+As seen above, EMA performs better than an SMA for this strategy.
+
+The periods were selected randomly and the trade conditions were exactly same for both cases.
