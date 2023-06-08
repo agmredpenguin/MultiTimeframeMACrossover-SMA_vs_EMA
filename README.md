@@ -36,3 +36,7 @@ Entry and Exit Conditions
       *   In time frame 1, fast_exit_ma crosses above medium_exit_ma 
 
 In this notebook, I am comparing how this strategy will perform if we use EMA vs SMA and keep rest of the variable same. The moving avg periods are arbitrary. 
+
+## **Conclusion:**
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg
